@@ -1,9 +1,5 @@
 ### Hi there 👋
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on VueJS
+- 🔭 I’m currently working on VueJS  and on my professional reorientation
 - 🌱 I’m currently learning VueJS and NuxtJS
 - 👯 I’m looking to collaborate on projects to imporve my coding
 - 🤔 I’m looking for help with backend end dev
