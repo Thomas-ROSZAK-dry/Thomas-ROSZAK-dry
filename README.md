@@ -6,4 +6,4 @@
 - 💬 Ask me about my goals, hobbies
 - 📫 How to reach me: thomasroszak81@gmail.com    
 
-![Cover](https://github.com/NicolasBrondin/NicolasBrondin/blob/master/img/cover.jpg)
+![Cover](https://github.com/Thomas-ROSZAK-dry/Thomas-ROSZAK-dry/blob/main/img/xps-pduutGbL2-M-unsplash.jpg)
