@@ -7,4 +7,4 @@
 - 📫 How to reach me: thomasroszak81@gmail.com    
 
 
-![Cover](https://github.com/Thomas-ROSZAK-dry/Thomas-ROSZAK-dry/blob/main/img/sam-albury-oA7MMRxTVzo-unsplash.jpg)
+![Cover](https://github.com/Thomas-ROSZAK-dry/Thomas-ROSZAK-dry/blob/main/img/cameron-barnes-s8iXv7Z633E-unsplash.jpg)
