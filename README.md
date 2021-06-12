@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Cover](https://github.com/Thomas-ROSZAK-dry/Thomas-ROSZAK-dry/blob/main/img/sam-albury-oA7MMRxTVzo-unsplash.jpg)
+![Cover]()
 
 - 🔭 I’m currently working on VueJS  and on my professional reorientation
 - 🌱 I’m currently learning VueJS and NuxtJS
