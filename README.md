@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-
-![Cover](https://github.com/Thomas-ROSZAK-dry/Thomas-ROSZAK-dry/blob/main/img/sam-albury-oA7MMRxTVzo-unsplash.jpg)
-
 - 🔭 I’m currently working on VueJS  and on my professional reorientation
 - 🌱 I’m currently learning VueJS and NuxtJS
 - 👯 I’m looking to collaborate on projects to imporve my coding
@@ -10,3 +6,5 @@
 - 💬 Ask me about my goals, hobbies
 - 📫 How to reach me: thomasroszak81@gmail.com    
 
+
+![Cover](https://github.com/Thomas-ROSZAK-dry/Thomas-ROSZAK-dry/blob/main/img/sam-albury-oA7MMRxTVzo-unsplash.jpg)
