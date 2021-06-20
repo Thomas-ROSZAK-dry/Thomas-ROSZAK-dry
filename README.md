@@ -8,5 +8,6 @@
 - 🤔 I’m looking for help with backend end dev
 - 💬 Ask me about my goals, hobbies
 - 📫 How to reach me: thomasroszak81@gmail.com    
+- I working to present myself  this year for the profesionnal Title of Dev web et web mobile Level III
 
 
