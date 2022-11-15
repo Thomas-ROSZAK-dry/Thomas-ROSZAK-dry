@@ -1,5 +1,3 @@
-![Cover](https://github.com/Thomas-ROSZAK-dry/Thomas-ROSZAK-dry/blob/main/img/cameron-barnes-s8iXv7Z633E-unsplash.jpg)
-
 ### Hi there 👋
 
 - 🔭 I’m currently working on Wordpress and VueJS on my professional reorientation
